@@ -1,7 +1,7 @@
 
 import streamlit as st
 import requests
-import psycopg2
+import psycopg
 import json
 
 # Supabase Credentials
