@@ -1,3 +1,7 @@
+!pip install requests
+!pip install psycopg2-binary
+
+
 import streamlit as st
 import requests
 import psycopg2
